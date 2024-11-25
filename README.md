@@ -40,6 +40,8 @@ The chosen model leverages the power of convolutional layers for feature extract
 
 ![Screenshot (142)](https://github.com/user-attachments/assets/9d41df56-2c40-4ffc-9b98-c5a30ece1d36)
 
+![sc](https://github.com/user-attachments/assets/1768a7ce-68fd-4097-ac73-bc37b63b8cd6)
+
 
 Detection Accuracy: 96.7%
 Note: These metrics can be customized based on your actual performance evaluations.
