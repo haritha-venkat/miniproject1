@@ -1,4 +1,4 @@
-## TOWARDS ACCURATE LUNG CANCER DETECTION: COMPARITIVE ANALYSIS USING CNN MODEL
+# TOWARDS ACCURATE LUNG CANCER DETECTION: COMPARITIVE ANALYSIS USING CNN MODEL
 
 The project aims to analyze and compare the performance of different Convolutional Neural Network (CNN) architectures for detecting cancerous nodules in lung CT scans. It focuses on selecting the most efficient model for accurate and early diagnosis of lung cancer, contributing to improved healthcare outcomes.
 
